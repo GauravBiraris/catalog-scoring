@@ -6,4 +6,3 @@ scipy
 torch
 torchvision
 numpy
-PIL
